@@ -24,12 +24,13 @@ me.say_hi()
 ```
 </pre>
         </td>
-        <td><a href="https://github.com/LuchnikKek/LuchnikKek"><img width="400" src="github-metrics/base.svg" alt="ooops, base metrics are not working"></a></td>
+        <td><a href="https://github.com/LuchnikKek/LuchnikKek"><img src="github-metrics/base.svg" alt="ooops, base metrics are not working"></a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/LuchnikKek/LuchnikKek"><img width="400" src="github-metrics/wakatime.svg" alt="ooops, Wakatime metrics are not working"></a></td>
+        <td><a href="https://github.com/LuchnikKek/LuchnikKek"><img src="github-metrics/wakatime.svg" alt="ooops, Wakatime metrics are not working"></a></td>
     </tr>
 </table>
+
 
 <h2>Tools</h2>
 
