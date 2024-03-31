@@ -15,7 +15,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/base.svg
-          base: header, activity, repositories
+          base: header, activity
           base_hireable: yes
           repositories_forks: yes
           token: ${{ secrets.METRICS_TOKEN }}
