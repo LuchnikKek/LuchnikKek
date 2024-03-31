@@ -1,15 +1,12 @@
-<h1 align="center">Hello there, I'm Ilya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">Python developer from Russia 🇷🇺</h4>
+<h1 align="center">Hello there! I'm Ilya Kabeshov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python Backend Developer</h4>
 
-[<img align="right" width="400" alt="ooops, it means my metrics are not working" src="https://github.com/LuchnikKek/LuchnikKek/blob/main/github-metrics.svg">](https://github.com/LuchnikKek/LuchnikKek)
-
-**About me:**
+<table>
+    <tr>
+        <td rowspan="2">
+            <pre>
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class SoftwareEngineer:
 
     def __init__(self):
@@ -25,6 +22,14 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+</pre>
+        </td>
+        <td><a href="https://github.com/LuchnikKek/LuchnikKek"><img width="400" src="github-metrics/base.svg" alt="ooops, base metrics are not working"></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/LuchnikKek/LuchnikKek"><img width="400" src="github-metrics/wakatime.svg" alt="ooops, Wakatime metrics are not working"></a></td>
+    </tr>
+</table>
 
 <h2>Tools</h2>
 
